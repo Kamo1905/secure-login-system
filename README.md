@@ -1,5 +1,5 @@
 # Secure Login System 
-A Python-Gui authentication system that securely register and log in users using password hashing. 
+A Python-GUI authentication system that securely register and log in users using password hashing. 
 
 ## Features 
 - User registeration and login
